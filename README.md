@@ -25,7 +25,7 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/cat-vs-dog-classifier.git
+   git clone https://github.com/Poojaschavan97/cats-vs-dogs.git
    cd cat-vs-dog-classifier
    ```
 2. Run the deployment script:
