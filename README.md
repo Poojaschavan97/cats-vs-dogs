@@ -28,10 +28,6 @@ To set up the project, follow these steps:
    git clone https://github.com/Poojaschavan97/cats-vs-dogs.git
    cd cat-vs-dog-classifier
    ```
-2. Run the deployment script:
-   ```sh
-   streamlit run app.py
-   ```
 
 ## Usage
 - Upload an image of a cat or dog through the web interface.
